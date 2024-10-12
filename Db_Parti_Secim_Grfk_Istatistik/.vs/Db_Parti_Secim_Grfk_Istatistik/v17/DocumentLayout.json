@@ -1,0 +1,94 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\betul\\source\\repos\\Db_Parti_Secim_Grfk_Istatistik\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D240DB22-4210-4C41-AE68-F2BDF05648C0}|Db_Parti_Secim_Grfk_Istatistik\\Db_Parti_Secim_Grfk_Istatistik.csproj|C:\\Users\\betul\\source\\repos\\Db_Parti_Secim_Grfk_Istatistik\\db_parti_secim_grfk_istatistik\\formgiris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D240DB22-4210-4C41-AE68-F2BDF05648C0}|Db_Parti_Secim_Grfk_Istatistik\\Db_Parti_Secim_Grfk_Istatistik.csproj|solutionrelative:db_parti_secim_grfk_istatistik\\formgiris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D240DB22-4210-4C41-AE68-F2BDF05648C0}|Db_Parti_Secim_Grfk_Istatistik\\Db_Parti_Secim_Grfk_Istatistik.csproj|C:\\Users\\betul\\source\\repos\\Db_Parti_Secim_Grfk_Istatistik\\db_parti_secim_grfk_istatistik\\formgrafikler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D240DB22-4210-4C41-AE68-F2BDF05648C0}|Db_Parti_Secim_Grfk_Istatistik\\Db_Parti_Secim_Grfk_Istatistik.csproj|solutionrelative:db_parti_secim_grfk_istatistik\\formgrafikler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D240DB22-4210-4C41-AE68-F2BDF05648C0}|Db_Parti_Secim_Grfk_Istatistik\\Db_Parti_Secim_Grfk_Istatistik.csproj|c:\\users\\betul\\source\\repos\\db_parti_secim_grfk_istatistik\\db_parti_secim_grfk_istatistik\\formgrafikler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D240DB22-4210-4C41-AE68-F2BDF05648C0}|Db_Parti_Secim_Grfk_Istatistik\\Db_Parti_Secim_Grfk_Istatistik.csproj|solutionrelative:db_parti_secim_grfk_istatistik\\formgrafikler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D240DB22-4210-4C41-AE68-F2BDF05648C0}|Db_Parti_Secim_Grfk_Istatistik\\Db_Parti_Secim_Grfk_Istatistik.csproj|c:\\users\\betul\\source\\repos\\db_parti_secim_grfk_istatistik\\db_parti_secim_grfk_istatistik\\formgiris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D240DB22-4210-4C41-AE68-F2BDF05648C0}|Db_Parti_Secim_Grfk_Istatistik\\Db_Parti_Secim_Grfk_Istatistik.csproj|solutionrelative:db_parti_secim_grfk_istatistik\\formgiris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 37,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormGrafikler.cs",
+              "DocumentMoniker": "C:\\Users\\betul\\source\\repos\\Db_Parti_Secim_Grfk_Istatistik\\Db_Parti_Secim_Grfk_Istatistik\\FormGrafikler.cs",
+              "RelativeDocumentMoniker": "Db_Parti_Secim_Grfk_Istatistik\\FormGrafikler.cs",
+              "ToolTip": "C:\\Users\\betul\\source\\repos\\Db_Parti_Secim_Grfk_Istatistik\\Db_Parti_Secim_Grfk_Istatistik\\FormGrafikler.cs",
+              "RelativeToolTip": "Db_Parti_Secim_Grfk_Istatistik\\FormGrafikler.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAAwFgAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T14:01:23.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormGiris.cs",
+              "DocumentMoniker": "C:\\Users\\betul\\source\\repos\\Db_Parti_Secim_Grfk_Istatistik\\Db_Parti_Secim_Grfk_Istatistik\\FormGiris.cs",
+              "RelativeDocumentMoniker": "Db_Parti_Secim_Grfk_Istatistik\\FormGiris.cs",
+              "ToolTip": "C:\\Users\\betul\\source\\repos\\Db_Parti_Secim_Grfk_Istatistik\\Db_Parti_Secim_Grfk_Istatistik\\FormGiris.cs",
+              "RelativeToolTip": "Db_Parti_Secim_Grfk_Istatistik\\FormGiris.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAADgvzEAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T13:56:57.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormGrafikler.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\betul\\source\\repos\\Db_Parti_Secim_Grfk_Istatistik\\Db_Parti_Secim_Grfk_Istatistik\\FormGrafikler.cs",
+              "RelativeDocumentMoniker": "Db_Parti_Secim_Grfk_Istatistik\\FormGrafikler.cs",
+              "ToolTip": "C:\\Users\\betul\\source\\repos\\Db_Parti_Secim_Grfk_Istatistik\\Db_Parti_Secim_Grfk_Istatistik\\FormGrafikler.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Db_Parti_Secim_Grfk_Istatistik\\FormGrafikler.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T12:47:28.059Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormGiris.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\betul\\source\\repos\\Db_Parti_Secim_Grfk_Istatistik\\Db_Parti_Secim_Grfk_Istatistik\\FormGiris.cs",
+              "RelativeDocumentMoniker": "Db_Parti_Secim_Grfk_Istatistik\\FormGiris.cs",
+              "ToolTip": "C:\\Users\\betul\\source\\repos\\Db_Parti_Secim_Grfk_Istatistik\\Db_Parti_Secim_Grfk_Istatistik\\FormGiris.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Db_Parti_Secim_Grfk_Istatistik\\FormGiris.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T12:41:16.031Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
